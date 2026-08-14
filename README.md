@@ -76,6 +76,6 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 </p>
 
 -----
-Credits: [Nneji123](https://github.com/Nneji123)
+Credits: [55](https://github.com/CristianCamiloVargas)
 
 Última edición: 14/08/2026
