@@ -49,7 +49,7 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 </a>
 
 <a href="mailto:mahiivariar26@gmail.com" target="blank">
-<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/outlook_Logo_256px.png" style="height: 3rem"/>
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
 </div>
