@@ -68,3 +68,14 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
 </p>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
+Credits: [Nneji123](https://github.com/Nneji123)
+
+Última edición: 14/08/2026
