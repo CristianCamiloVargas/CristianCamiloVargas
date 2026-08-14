@@ -9,6 +9,9 @@
 </div>
 
 ---
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Sobre Mí
+Soy estudiante de Ingeniería de Software con la visión de colaborar globalmente con empresas líderes en ciberseguridad 🛡️. Mi compromiso principal es construir soluciones tecnológicas reales que generen un impacto positivo en la sociedad. Me apasiona desarrollar aplicaciones web y móviles seguras, garantizando siempre la protección y privacidad de los datos del usuario final.
+---
 
 <table align="center">
 <tr border="none">
