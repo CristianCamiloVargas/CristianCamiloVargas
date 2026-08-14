@@ -76,6 +76,7 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 </p>
 
 -----
-Credits: [55](https://github.com/CristianCamiloVargas)
+
+Créditos: [Cristian Camilo Vargas](https://github.com/CristianCamiloVargas)
 
 Última edición: 14/08/2026
