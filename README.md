@@ -7,7 +7,7 @@
 </div>
 ---
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="60px" height="50px"></img> Resumen Técnico
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="60px" height="60px"></img> Resumen Técnico
 <table align="center">
 <tr border="none">
 <td width="40%" align="left">
