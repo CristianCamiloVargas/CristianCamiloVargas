@@ -15,13 +15,13 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Resumen Técnico
 - 🌱 Dominando Python y Linux.
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 👨🏽‍💻 Desarrollando software potenciado por IA.
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Abierto a charlar sobre desarrollo, seguridad y tendencias tech.
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 🎯 Buscando colaborar de forma remota en iniciativas de ciberseguridad.
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Refinando mis habilidades en Software, Nube y Clean Code.
 
 </td>
 <td width="50%" align="center">
