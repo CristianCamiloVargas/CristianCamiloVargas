@@ -8,10 +8,10 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="50px"></img> Resumen Técnico
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" height="50px"></img> Resumen Técnico
 <table align="center">
 <tr border="none">
-<td width="70%" align="left">
+<td width="40%" align="left">
 
 - 🌱 I’m currently learning **OOP with Java**
 
