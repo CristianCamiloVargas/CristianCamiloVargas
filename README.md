@@ -17,6 +17,7 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 <tr border="none">
 <td width="50%" align="left">
 
+<h2 align="left"> 💼 Visión y Próximos Desafíos </h2>
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Visión y Próximos Desafíos.
 - 🌱 Dominar Python, Java y Linux.
 
