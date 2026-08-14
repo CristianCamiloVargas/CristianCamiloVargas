@@ -13,15 +13,15 @@
 <td width="50%" align="left">
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Resumen Técnico
-- 🌱 Dominando Python y Linux.
+- 🌱 Dominar Python, Java y Linux.
 
-- 👨🏽‍💻 Desarrollando software potenciado por IA.
+- 👨🏽‍💻 Desarrollar software potenciado por IA.
 
-- 💬 Abierto a charlar sobre desarrollo, seguridad y tendencias tech.
+- 💬 Abierto a debatir sobre desarrollo, seguridad y tendencias tech.
 
-- 🎯 Buscando colaborar de forma remota en iniciativas de ciberseguridad.
+- 🎯 Colaborar de forma remota en iniciativas de ciberseguridad.
   
-- ⚡ Refinando mis habilidades en Software, Nube y Clean Code.
+- ⚡ Refinar habilidades en Software, Nube y Clean Code.
 
 </td>
 <td width="50%" align="center">
