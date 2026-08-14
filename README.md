@@ -6,13 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=45&center=true&vCenter=true&height=50&width=1000&lines=Heyyy!+Preparado+para+el+siguiente+reto%3C3;Bienvenido+a+mi+perfil!" alt="Title"></img>
 </div>
 
----
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Resumen Técnico
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="50px"></img> Resumen Técnico
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-#Sobre mi  
 - 🌱 I’m currently learning **OOP with Java**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
