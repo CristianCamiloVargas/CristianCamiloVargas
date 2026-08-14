@@ -13,7 +13,7 @@
 <td width="50%" align="left">
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Resumen Técnico
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 Dominando Python y Linux.
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
