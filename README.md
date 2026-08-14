@@ -11,7 +11,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
+
+#Sobre mi  
 - 🌱 I’m currently learning **OOP with Java**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
