@@ -18,6 +18,7 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 <td width="50%" align="left">
 
 <h2 align="left"> 💼 Visión y Próximos Desafíos </h2>
+
 - 🌱 Dominar Python, Java y Linux.
 
 - 👨🏽‍💻 Desarrollar software potenciado por IA.
