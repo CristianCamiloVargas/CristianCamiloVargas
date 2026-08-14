@@ -40,9 +40,9 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 </table>
 
 ---
-<h3 align="center">¡Conectemos! :</h3>  
+<h3 align="center">¡Conectemos! </h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/cristian-vargas-ramirez-a22623230/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
 <a href="https://codepen.io/mahiiverse" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
@@ -56,7 +56,7 @@ Soy estudiante de Ingeniería de Software con la visión de colaborar globalment
 
 <!-- Tech Stack --> 
 
-<h3 align="Center">Lenguajes y herramientas:</h3>  
+<h3 align="Center">Lenguajes y herramientas</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
